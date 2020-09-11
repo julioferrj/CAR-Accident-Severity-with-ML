@@ -4,4 +4,6 @@ We use the car for everything, even more than we should, exposing our lives and 
 
 This is what we are going to work on in this project.
 
+In this sense, the business problem is to predict the severity (from 0 to fatality) of car accident, helping the drivers to take better options based on the risk associated with their travels.
+
 
